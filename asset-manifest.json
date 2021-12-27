@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ajean-portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/ajean-portfolio/static/js/main.fdc6f921.js",
-    "static/js/787.c0076e79.chunk.js": "/ajean-portfolio/static/js/787.c0076e79.chunk.js",
-    "static/media/logo.svg": "/ajean-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ajean-portfolio/index.html",
-    "main.073c9b0a.css.map": "/ajean-portfolio/static/css/main.073c9b0a.css.map",
-    "main.fdc6f921.js.map": "/ajean-portfolio/static/js/main.fdc6f921.js.map",
-    "787.c0076e79.chunk.js.map": "/ajean-portfolio/static/js/787.c0076e79.chunk.js.map"
+    "main.css": "/ajean757.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/ajean757.github.io/static/js/main.9eb0f0f2.js",
+    "static/js/787.c0076e79.chunk.js": "/ajean757.github.io/static/js/787.c0076e79.chunk.js",
+    "static/media/logo.svg": "/ajean757.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ajean757.github.io/index.html",
+    "main.073c9b0a.css.map": "/ajean757.github.io/static/css/main.073c9b0a.css.map",
+    "main.9eb0f0f2.js.map": "/ajean757.github.io/static/js/main.9eb0f0f2.js.map",
+    "787.c0076e79.chunk.js.map": "/ajean757.github.io/static/js/787.c0076e79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.fdc6f921.js"
+    "static/js/main.9eb0f0f2.js"
   ]
 }
